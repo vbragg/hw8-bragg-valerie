@@ -11,12 +11,11 @@ li {
 ul li p {
   padding: 15%;
   margin: 0;
-}
-
-.new-color {
-  background-color: /* New color goes here - pick something fun :) */;
+  background-color: #ffffff;
+  transition: background-color 1000ms;
 }
 
 .teal {
   background-color: #008B8B;
+  transition: background-color 1000ms;
 }
